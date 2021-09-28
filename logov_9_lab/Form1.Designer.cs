@@ -130,9 +130,9 @@ namespace logov_9_lab
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(293, 28);
+            this.pictureBox1.Location = new System.Drawing.Point(241, 12);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(436, 310);
+            this.pictureBox1.Size = new System.Drawing.Size(526, 372);
             this.pictureBox1.TabIndex = 9;
             this.pictureBox1.TabStop = false;
             // 
@@ -171,6 +171,7 @@ namespace logov_9_lab
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.PictureBox pictureBox1;
+        
     }
 }
 
