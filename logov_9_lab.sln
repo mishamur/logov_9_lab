@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logov_9_lab", "logov_9_lab\logov_9_lab.csproj", "{673AE343-648D-4EC9-910C-93FC03E3B9A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673AE343-648D-4EC9-910C-93FC03E3B9A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{673AE343-648D-4EC9-910C-93FC03E3B9A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{673AE343-648D-4EC9-910C-93FC03E3B9A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{673AE343-648D-4EC9-910C-93FC03E3B9A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86D50B17-EC11-452D-AC6B-B4F473A98E82}
+	EndGlobalSection
+EndGlobal
